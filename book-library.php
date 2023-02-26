@@ -1,11 +1,16 @@
 <?php
+
 /*
 Plugin Name: Book library
 Plugin URI: https://wordpress.org/
-Description: avc
+Description: This is book library plugin.
 Version: 1.0.0
 Author: Akshay
 Author URI: https://wordpress.org/
+License: GPL v2 or later
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: wpbl
+Domain Path: /languages
 */
 
 /**
